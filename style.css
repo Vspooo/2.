@@ -1,0 +1,68 @@
+.head {
+    width: 650px;
+    height: 50px;
+    border-bottom: 1px solid skyblue;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.naV {
+    width: 650px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+}
+
+.maiN {
+    width: 450px;
+    height: 400px;
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+}
+
+
+.asIde {
+    width: 200px;
+    height: 400px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+
+}
+
+
+#main-aside {
+    display: flex;
+
+
+}
+
+.fooTer{
+    width: 650px;
+    height: 50px;
+    background-color: cyan;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+
+
+}
